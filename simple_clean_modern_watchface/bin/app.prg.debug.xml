@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="C:\dev\garmin-watchface\simple_clean_modern_watchface\manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceApp.mc" id="1" lineNum="31" parent="globals" pc="268435460" symbol="getApp"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceApp.mc" id="1" lineNum="32" parent="globals" pc="268435470" symbol="getApp"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="2" lineNum="14" parent="globals/simple_clean_modern_watchfaceView" pc="268435481" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceBackground.mc" id="3" lineNum="6" parent="globals/Background" pc="268435493" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\bin\\gen\\006-B4313-00\\source\\Rez.mcgen" id="4" lineNum="7" parent="globals/Rez" pc="268435505" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceApp.mc" id="5" lineNum="5" parent="globals/simple_clean_modern_watchfaceApp" pc="268435525" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="6" lineNum="201" parent="globals/simple_clean_modern_watchfaceView" pc="268435537" symbol="&lt;globals/simple_clean_modern_watchfaceView/&lt;&gt;drawSunIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="6" lineNum="202" parent="globals/simple_clean_modern_watchfaceView" pc="268435539" symbol="&lt;globals/simple_clean_modern_watchfaceView/&lt;&gt;drawSunIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="6" lineNum="205" parent="globals/simple_clean_modern_watchfaceView" pc="268435553" symbol="&lt;globals/simple_clean_modern_watchfaceView/&lt;&gt;drawSunIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="6" lineNum="208" parent="globals/simple_clean_modern_watchfaceView" pc="268435569" symbol="&lt;globals/simple_clean_modern_watchfaceView/&lt;&gt;drawSunIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="6" lineNum="209" parent="globals/simple_clean_modern_watchfaceView" pc="268435582" symbol="&lt;globals/simple_clean_modern_watchfaceView/&lt;&gt;drawSunIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="6" lineNum="211" parent="globals/simple_clean_modern_watchfaceView" pc="268435603" symbol="&lt;globals/simple_clean_modern_watchfaceView/&lt;&gt;drawSunIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="6" lineNum="213" parent="globals/simple_clean_modern_watchfaceView" pc="268435617" symbol="&lt;globals/simple_clean_modern_watchfaceView/&lt;&gt;drawSunIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="6" lineNum="214" parent="globals/simple_clean_modern_watchfaceView" pc="268435629" symbol="&lt;globals/simple_clean_modern_watchfaceView/&lt;&gt;drawSunIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="6" lineNum="217" parent="globals/simple_clean_modern_watchfaceView" pc="268435659" symbol="&lt;globals/simple_clean_modern_watchfaceView/&lt;&gt;drawSunIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="6" lineNum="218" parent="globals/simple_clean_modern_watchfaceView" pc="268435689" symbol="&lt;globals/simple_clean_modern_watchfaceView/&lt;&gt;drawSunIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="6" lineNum="219" parent="globals/simple_clean_modern_watchfaceView" pc="268435719" symbol="&lt;globals/simple_clean_modern_watchfaceView/&lt;&gt;drawSunIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="6" lineNum="220" parent="globals/simple_clean_modern_watchfaceView" pc="268435743" symbol="&lt;globals/simple_clean_modern_watchfaceView/&lt;&gt;drawSunIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="6" lineNum="221" parent="globals/simple_clean_modern_watchfaceView" pc="268435773" symbol="&lt;globals/simple_clean_modern_watchfaceView/&lt;&gt;drawSunIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="6" lineNum="224" parent="globals/simple_clean_modern_watchfaceView" pc="268435803" symbol="&lt;globals/simple_clean_modern_watchfaceView/&lt;&gt;drawSunIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="6" lineNum="225" parent="globals/simple_clean_modern_watchfaceView" pc="268435820" symbol="&lt;globals/simple_clean_modern_watchfaceView/&lt;&gt;drawSunIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="6" lineNum="226" parent="globals/simple_clean_modern_watchfaceView" pc="268435825" symbol="&lt;globals/simple_clean_modern_watchfaceView/&lt;&gt;drawSunIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="6" lineNum="227" parent="globals/simple_clean_modern_watchfaceView" pc="268435849" symbol="&lt;globals/simple_clean_modern_watchfaceView/&lt;&gt;drawSunIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="6" lineNum="228" parent="globals/simple_clean_modern_watchfaceView" pc="268435876" symbol="&lt;globals/simple_clean_modern_watchfaceView/&lt;&gt;drawSunIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="6" lineNum="230" parent="globals/simple_clean_modern_watchfaceView" pc="268435906" symbol="&lt;globals/simple_clean_modern_watchfaceView/&lt;&gt;drawSunIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="6" lineNum="231" parent="globals/simple_clean_modern_watchfaceView" pc="268435930" symbol="&lt;globals/simple_clean_modern_watchfaceView/&lt;&gt;drawSunIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="6" lineNum="232" parent="globals/simple_clean_modern_watchfaceView" pc="268435957" symbol="&lt;globals/simple_clean_modern_watchfaceView/&lt;&gt;drawSunIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="6" lineNum="234" parent="globals/simple_clean_modern_watchfaceView" pc="268435984" symbol="&lt;globals/simple_clean_modern_watchfaceView/&lt;&gt;drawSunIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="9" lineNum="24" parent="globals/simple_clean_modern_watchfaceView" pc="268435997" symbol="onLayout"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="9" lineNum="25" parent="globals/simple_clean_modern_watchfaceView" pc="268435999" symbol="onLayout"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="9" lineNum="26" parent="globals/simple_clean_modern_watchfaceView" pc="268436013" symbol="onLayout"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="11" lineNum="19" parent="globals/simple_clean_modern_watchfaceView" pc="268436028" symbol="initialize"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="11" lineNum="20" parent="globals/simple_clean_modern_watchfaceView" pc="268436030" symbol="initialize"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="36" parent="globals/simple_clean_modern_watchfaceView" pc="268436043" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="39" parent="globals/simple_clean_modern_watchfaceView" pc="268436046" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="40" parent="globals/simple_clean_modern_watchfaceView" pc="268436058" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="43" parent="globals/simple_clean_modern_watchfaceView" pc="268436066" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="44" parent="globals/simple_clean_modern_watchfaceView" pc="268436076" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="47" parent="globals/simple_clean_modern_watchfaceView" pc="268436086" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="48" parent="globals/simple_clean_modern_watchfaceView" pc="268436098" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="49" parent="globals/simple_clean_modern_watchfaceView" pc="268436106" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="50" parent="globals/simple_clean_modern_watchfaceView" pc="268436133" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="51" parent="globals/simple_clean_modern_watchfaceView" pc="268436143" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="52" parent="globals/simple_clean_modern_watchfaceView" pc="268436169" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="54" parent="globals/simple_clean_modern_watchfaceView" pc="268436176" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="55" parent="globals/simple_clean_modern_watchfaceView" pc="268436226" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="57" parent="globals/simple_clean_modern_watchfaceView" pc="268436243" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="60" parent="globals/simple_clean_modern_watchfaceView" pc="268436266" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="61" parent="globals/simple_clean_modern_watchfaceView" pc="268436278" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="62" parent="globals/simple_clean_modern_watchfaceView" pc="268436296" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="63" parent="globals/simple_clean_modern_watchfaceView" pc="268436346" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="64" parent="globals/simple_clean_modern_watchfaceView" pc="268436363" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="67" parent="globals/simple_clean_modern_watchfaceView" pc="268436386" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="68" parent="globals/simple_clean_modern_watchfaceView" pc="268436398" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="69" parent="globals/simple_clean_modern_watchfaceView" pc="268436406" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="72" parent="globals/simple_clean_modern_watchfaceView" pc="268436413" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="73" parent="globals/simple_clean_modern_watchfaceView" pc="268436419" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="74" parent="globals/simple_clean_modern_watchfaceView" pc="268436427" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="75" parent="globals/simple_clean_modern_watchfaceView" pc="268436437" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="76" parent="globals/simple_clean_modern_watchfaceView" pc="268436445" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="80" parent="globals/simple_clean_modern_watchfaceView" pc="268436455" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="81" parent="globals/simple_clean_modern_watchfaceView" pc="268436472" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="82" parent="globals/simple_clean_modern_watchfaceView" pc="268436496" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="85" parent="globals/simple_clean_modern_watchfaceView" pc="268436520" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="86" parent="globals/simple_clean_modern_watchfaceView" pc="268436534" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="87" parent="globals/simple_clean_modern_watchfaceView" pc="268436553" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="88" parent="globals/simple_clean_modern_watchfaceView" pc="268436560" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="92" parent="globals/simple_clean_modern_watchfaceView" pc="268436587" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="93" parent="globals/simple_clean_modern_watchfaceView" pc="268436604" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="96" parent="globals/simple_clean_modern_watchfaceView" pc="268436644" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="97" parent="globals/simple_clean_modern_watchfaceView" pc="268436651" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="98" parent="globals/simple_clean_modern_watchfaceView" pc="268436663" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="99" parent="globals/simple_clean_modern_watchfaceView" pc="268436680" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="102" parent="globals/simple_clean_modern_watchfaceView" pc="268436698" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="103" parent="globals/simple_clean_modern_watchfaceView" pc="268436715" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="104" parent="globals/simple_clean_modern_watchfaceView" pc="268436721" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="105" parent="globals/simple_clean_modern_watchfaceView" pc="268436731" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="106" parent="globals/simple_clean_modern_watchfaceView" pc="268436751" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="110" parent="globals/simple_clean_modern_watchfaceView" pc="268436772" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="111" parent="globals/simple_clean_modern_watchfaceView" pc="268436779" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="112" parent="globals/simple_clean_modern_watchfaceView" pc="268436802" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="113" parent="globals/simple_clean_modern_watchfaceView" pc="268436819" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="116" parent="globals/simple_clean_modern_watchfaceView" pc="268436842" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="117" parent="globals/simple_clean_modern_watchfaceView" pc="268436845" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="118" parent="globals/simple_clean_modern_watchfaceView" pc="268436857" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="119" parent="globals/simple_clean_modern_watchfaceView" pc="268436874" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="121" parent="globals/simple_clean_modern_watchfaceView" pc="268436886" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="122" parent="globals/simple_clean_modern_watchfaceView" pc="268436893" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="123" parent="globals/simple_clean_modern_watchfaceView" pc="268436915" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="124" parent="globals/simple_clean_modern_watchfaceView" pc="268436932" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="128" parent="globals/simple_clean_modern_watchfaceView" pc="268436960" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="129" parent="globals/simple_clean_modern_watchfaceView" pc="268436967" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="131" parent="globals/simple_clean_modern_watchfaceView" pc="268436974" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="132" parent="globals/simple_clean_modern_watchfaceView" pc="268436989" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="133" parent="globals/simple_clean_modern_watchfaceView" pc="268437001" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="134" parent="globals/simple_clean_modern_watchfaceView" pc="268437018" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="135" parent="globals/simple_clean_modern_watchfaceView" pc="268437027" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="136" parent="globals/simple_clean_modern_watchfaceView" pc="268437045" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="138" parent="globals/simple_clean_modern_watchfaceView" pc="268437063" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="139" parent="globals/simple_clean_modern_watchfaceView" pc="268437069" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="140" parent="globals/simple_clean_modern_watchfaceView" pc="268437086" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="141" parent="globals/simple_clean_modern_watchfaceView" pc="268437094" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="141" parent="globals/simple_clean_modern_watchfaceView" pc="268437121" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="142" parent="globals/simple_clean_modern_watchfaceView" pc="268437131" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="142" parent="globals/simple_clean_modern_watchfaceView" pc="268437157" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="143" parent="globals/simple_clean_modern_watchfaceView" pc="268437164" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="146" parent="globals/simple_clean_modern_watchfaceView" pc="268437217" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="147" parent="globals/simple_clean_modern_watchfaceView" pc="268437223" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="148" parent="globals/simple_clean_modern_watchfaceView" pc="268437240" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="149" parent="globals/simple_clean_modern_watchfaceView" pc="268437248" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="149" parent="globals/simple_clean_modern_watchfaceView" pc="268437275" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="150" parent="globals/simple_clean_modern_watchfaceView" pc="268437285" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="150" parent="globals/simple_clean_modern_watchfaceView" pc="268437311" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="151" parent="globals/simple_clean_modern_watchfaceView" pc="268437318" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="156" parent="globals/simple_clean_modern_watchfaceView" pc="268437377" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="157" parent="globals/simple_clean_modern_watchfaceView" pc="268437384" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="158" parent="globals/simple_clean_modern_watchfaceView" pc="268437391" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="160" parent="globals/simple_clean_modern_watchfaceView" pc="268437398" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="161" parent="globals/simple_clean_modern_watchfaceView" pc="268437422" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="162" parent="globals/simple_clean_modern_watchfaceView" pc="268437439" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="164" parent="globals/simple_clean_modern_watchfaceView" pc="268437461" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="165" parent="globals/simple_clean_modern_watchfaceView" pc="268437485" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="13" lineNum="166" parent="globals/simple_clean_modern_watchfaceView" pc="268437502" symbol="onUpdate"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="14" lineNum="191" parent="globals/simple_clean_modern_watchfaceView" pc="268437525" symbol="&lt;globals/simple_clean_modern_watchfaceView/&lt;&gt;drawShoeIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="14" lineNum="192" parent="globals/simple_clean_modern_watchfaceView" pc="268437527" symbol="&lt;globals/simple_clean_modern_watchfaceView/&lt;&gt;drawShoeIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="14" lineNum="193" parent="globals/simple_clean_modern_watchfaceView" pc="268437541" symbol="&lt;globals/simple_clean_modern_watchfaceView/&lt;&gt;drawShoeIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="14" lineNum="194" parent="globals/simple_clean_modern_watchfaceView" pc="268437562" symbol="&lt;globals/simple_clean_modern_watchfaceView/&lt;&gt;drawShoeIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="14" lineNum="195" parent="globals/simple_clean_modern_watchfaceView" pc="268437583" symbol="&lt;globals/simple_clean_modern_watchfaceView/&lt;&gt;drawShoeIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="14" lineNum="196" parent="globals/simple_clean_modern_watchfaceView" pc="268437605" symbol="&lt;globals/simple_clean_modern_watchfaceView/&lt;&gt;drawShoeIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="14" lineNum="197" parent="globals/simple_clean_modern_watchfaceView" pc="268437627" symbol="&lt;globals/simple_clean_modern_watchfaceView/&lt;&gt;drawShoeIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="14" lineNum="198" parent="globals/simple_clean_modern_watchfaceView" pc="268437649" symbol="&lt;globals/simple_clean_modern_watchfaceView/&lt;&gt;drawShoeIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="15" lineNum="180" parent="globals/simple_clean_modern_watchfaceView" pc="268437672" symbol="&lt;globals/simple_clean_modern_watchfaceView/&lt;&gt;drawHeartIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="15" lineNum="181" parent="globals/simple_clean_modern_watchfaceView" pc="268437674" symbol="&lt;globals/simple_clean_modern_watchfaceView/&lt;&gt;drawHeartIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="15" lineNum="182" parent="globals/simple_clean_modern_watchfaceView" pc="268437688" symbol="&lt;globals/simple_clean_modern_watchfaceView/&lt;&gt;drawHeartIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="15" lineNum="183" parent="globals/simple_clean_modern_watchfaceView" pc="268437710" symbol="&lt;globals/simple_clean_modern_watchfaceView/&lt;&gt;drawHeartIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceView.mc" id="15" lineNum="184" parent="globals/simple_clean_modern_watchfaceView" pc="268437732" symbol="&lt;globals/simple_clean_modern_watchfaceView/&lt;&gt;drawHeartIcon&gt;"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceBackground.mc" id="16" lineNum="8" parent="globals/Background" pc="268437807" symbol="initialize"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceBackground.mc" id="16" lineNum="9" parent="globals/Background" pc="268437810" symbol="initialize"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceBackground.mc" id="16" lineNum="13" parent="globals/Background" pc="268437828" symbol="initialize"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceBackground.mc" id="17" lineNum="16" parent="globals/Background" pc="268437845" symbol="draw"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceBackground.mc" id="17" lineNum="18" parent="globals/Background" pc="268437847" symbol="draw"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceBackground.mc" id="17" lineNum="19" parent="globals/Background" pc="268437878" symbol="draw"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceApp.mc" id="18" lineNum="12" parent="globals/simple_clean_modern_watchfaceApp" pc="268437887" symbol="onStart"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceApp.mc" id="19" lineNum="25" parent="globals/simple_clean_modern_watchfaceApp" pc="268437890" symbol="onSettingsChanged"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceApp.mc" id="19" lineNum="26" parent="globals/simple_clean_modern_watchfaceApp" pc="268437892" symbol="onSettingsChanged"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceApp.mc" id="20" lineNum="20" parent="globals/simple_clean_modern_watchfaceApp" pc="268437904" symbol="getInitialView"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceApp.mc" id="20" lineNum="21" parent="globals/simple_clean_modern_watchfaceApp" pc="268437906" symbol="getInitialView"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceApp.mc" id="21" lineNum="7" parent="globals/simple_clean_modern_watchfaceApp" pc="268437932" symbol="initialize"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceApp.mc" id="21" lineNum="8" parent="globals/simple_clean_modern_watchfaceApp" pc="268437934" symbol="initialize"/>
+        <entry filename="C:\\dev\\garmin-watchface\\simple_clean_modern_watchface\\source\\simple_clean_modern_watchfaceApp.mc" id="22" lineNum="16" parent="globals/simple_clean_modern_watchfaceApp" pc="268437947" symbol="onStop"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry field="true" id="10" symbol="&lt;globals/simple_clean_modern_watchfaceView/&lt;&gt;screenHeight&gt;"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="9" method="true" symbol="&lt;globals/simple_clean_modern_watchfaceView/&lt;&gt;drawSunIcon&gt;"/>
+        <entry id="8389683" method="true" symbol="onSettingsChanged"/>
+        <entry field="true" id="19" symbol="ColorRed"/>
+        <entry field="true" id="22" symbol="MilitaryFormatTitle"/>
+        <entry id="8388924" module="true" symbol="Gregorian"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="16" symbol="ColorBlue"/>
+        <entry field="true" id="13" symbol="AppName"/>
+        <entry id="8388633" module="true" symbol="ActivityMonitor"/>
+        <entry id="4" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388631" module="true" symbol="Activity"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry field="true" id="11" symbol="&lt;globals/simple_clean_modern_watchfaceView/&lt;&gt;screenWidth&gt;"/>
+        <entry id="8391489" module="true" symbol="Weather"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389275" method="true" symbol="getApp"/>
+        <entry field="true" id="17" symbol="ColorDarkGray"/>
+        <entry id="7" method="true" symbol="&lt;globals/simple_clean_modern_watchfaceView/&lt;&gt;drawHeartIcon&gt;"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry field="true" id="20" symbol="ColorWhite"/>
+        <entry field="true" id="15" symbol="ColorBlack"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="5" object="true" symbol="simple_clean_modern_watchfaceApp"/>
+        <entry id="8389068" method="true" symbol="draw"/>
+        <entry field="true" id="12" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="6" object="true" symbol="simple_clean_modern_watchfaceView"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry field="true" id="14" symbol="BackgroundColorTitle"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8390146" module="true" object="true" symbol="Background"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="8388641" module="true" symbol="Math"/>
+        <entry field="true" id="18" symbol="ColorLightGray"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry field="true" id="21" symbol="ForegroundColorTitle"/>
+        <entry id="8388642" module="true" symbol="Position"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8" method="true" symbol="&lt;globals/simple_clean_modern_watchfaceView/&lt;&gt;drawShoeIcon&gt;"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435996" name="dc" stackId="1" startPc="268435537"/>
+        <entry arg="true" endPc="268435996" name="x" stackId="2" startPc="268435537"/>
+        <entry arg="true" endPc="268435996" name="y" stackId="3" startPc="268435537"/>
+        <entry arg="true" endPc="268435996" name="color" stackId="4" startPc="268435537"/>
+        <entry arg="true" endPc="268435996" name="isSunrise" stackId="5" startPc="268435537"/>
+        <entry arg="true" endPc="268436027" name="dc" stackId="1" startPc="268435997"/>
+        <entry arg="true" endPc="268437524" name="dc" stackId="1" startPc="268436043"/>
+        <entry endPc="268437523" name="cx" stackId="2" startPc="268436046"/>
+        <entry endPc="268437523" name="cy" stackId="3" startPc="268436046"/>
+        <entry endPc="268437523" name="clockTime" stackId="4" startPc="268436046"/>
+        <entry endPc="268437523" name="hours" stackId="5" startPc="268436046"/>
+        <entry endPc="268437523" name="timeString" stackId="6" startPc="268436046"/>
+        <entry endPc="268437523" name="now" stackId="7" startPc="268436046"/>
+        <entry endPc="268437523" name="info" stackId="8" startPc="268436046"/>
+        <entry endPc="268437523" name="dateString" stackId="9" startPc="268436046"/>
+        <entry endPc="268437523" name="stats" stackId="10" startPc="268436046"/>
+        <entry endPc="268437523" name="batteryPct" stackId="11" startPc="268436046"/>
+        <entry endPc="268437523" name="batY" stackId="12" startPc="268436046"/>
+        <entry endPc="268437523" name="batColor" stackId="13" startPc="268436046"/>
+        <entry endPc="268437523" name="fillWidth" stackId="14" startPc="268436046"/>
+        <entry endPc="268437523" name="hrValue" stackId="15" startPc="268436046"/>
+        <entry endPc="268437523" name="activityInfo" stackId="16" startPc="268436046"/>
+        <entry endPc="268436771" name="hrIterator" stackId="17" startPc="268436698"/>
+        <entry endPc="268436768" name="sample" stackId="18" startPc="268436721"/>
+        <entry endPc="268437523" name="leftX" stackId="19" startPc="268436046"/>
+        <entry endPc="268437523" name="stepCount" stackId="20" startPc="268436046"/>
+        <entry endPc="268437523" name="actMonInfo" stackId="21" startPc="268436046"/>
+        <entry endPc="268437523" name="rightX" stackId="22" startPc="268436046"/>
+        <entry endPc="268437523" name="sunriseStr" stackId="23" startPc="268436046"/>
+        <entry endPc="268437523" name="sunsetStr" stackId="24" startPc="268436046"/>
+        <entry endPc="268437373" name="conditions" stackId="25" startPc="268436989"/>
+        <entry endPc="268437370" name="location" stackId="26" startPc="268437018"/>
+        <entry endPc="268437370" name="sunriseMoment" stackId="27" startPc="268437018"/>
+        <entry endPc="268437370" name="sunsetMoment" stackId="28" startPc="268437018"/>
+        <entry endPc="268437213" name="srInfo" stackId="29" startPc="268437069"/>
+        <entry endPc="268437213" name="srHr" stackId="30" startPc="268437069"/>
+        <entry endPc="268437367" name="ssInfo" stackId="31" startPc="268437223"/>
+        <entry endPc="268437367" name="ssHr" stackId="32" startPc="268437223"/>
+        <entry endPc="268437523" name="dateLeftX" stackId="33" startPc="268436046"/>
+        <entry endPc="268437523" name="dateRightX" stackId="34" startPc="268436046"/>
+        <entry endPc="268437523" name="dateY" stackId="35" startPc="268436046"/>
+        <entry arg="true" endPc="268437671" name="dc" stackId="1" startPc="268437525"/>
+        <entry arg="true" endPc="268437671" name="x" stackId="2" startPc="268437525"/>
+        <entry arg="true" endPc="268437671" name="y" stackId="3" startPc="268437525"/>
+        <entry arg="true" endPc="268437671" name="color" stackId="4" startPc="268437525"/>
+        <entry arg="true" endPc="268437806" name="dc" stackId="1" startPc="268437672"/>
+        <entry arg="true" endPc="268437806" name="x" stackId="2" startPc="268437672"/>
+        <entry arg="true" endPc="268437806" name="y" stackId="3" startPc="268437672"/>
+        <entry arg="true" endPc="268437806" name="color" stackId="4" startPc="268437672"/>
+        <entry endPc="268437843" name="dictionary" stackId="1" startPc="268437810"/>
+        <entry arg="true" endPc="268437886" name="dc" stackId="1" startPc="268437845"/>
+    </localVars>
+    <deviceInfo deviceVersion="45fe3cbb0de8ea0a70e12628d2697915f1272301" partNumber="006-B4313-00"/>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MilitaryFormatTitle"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BackgroundColorTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorRed"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorDarkGray"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorWhite"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ForegroundColorTitle"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorLightGray"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorBlue"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorBlack"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="49" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/simple_clean_modern_watchfaceView" offset="125" parentId="globals" symbolId="simple_clean_modern_watchfaceView" type="class"/>
+        <dataEntry label="globals/Background" offset="268" parentId="globals" symbolId="Background" type="class"/>
+        <dataEntry label="globals/Rez" offset="321" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/simple_clean_modern_watchfaceApp" offset="365" parentId="globals" symbolId="simple_clean_modern_watchfaceApp" type="class"/>
+        <dataEntry label="globals/Rez/Drawables" offset="445" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="480" parentId="Rez" symbolId="Strings" type="module"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" endPc="268435480" name="getApp" startPc="268435460">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435492" name="&lt;init&gt;" parent="simple_clean_modern_watchfaceView" startPc="268435481">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435504" name="&lt;init&gt;" parent="Background" startPc="268435493">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435524" name="&lt;init&gt;" parent="Rez" startPc="268435505">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435536" name="&lt;init&gt;" parent="simple_clean_modern_watchfaceApp" startPc="268435525">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268435996" name="&lt;globals/simple_clean_modern_watchfaceView/&lt;&gt;drawSunIcon&gt;" parent="simple_clean_modern_watchfaceView" startPc="268435537">
+            <param id="dc"/>
+            <param id="x"/>
+            <param id="y"/>
+            <param id="color"/>
+            <param id="isSunrise"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onExitSleep" parent="simple_clean_modern_watchfaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="simple_clean_modern_watchfaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436027" name="onLayout" parent="simple_clean_modern_watchfaceView" startPc="268435997">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onEnterSleep" parent="simple_clean_modern_watchfaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436042" name="initialize" parent="simple_clean_modern_watchfaceView" startPc="268436028">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="simple_clean_modern_watchfaceView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437524" name="onUpdate" parent="simple_clean_modern_watchfaceView" startPc="268436043">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268437671" name="&lt;globals/simple_clean_modern_watchfaceView/&lt;&gt;drawShoeIcon&gt;" parent="simple_clean_modern_watchfaceView" startPc="268437525">
+            <param id="dc"/>
+            <param id="x"/>
+            <param id="y"/>
+            <param id="color"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268437806" name="&lt;globals/simple_clean_modern_watchfaceView/&lt;&gt;drawHeartIcon&gt;" parent="simple_clean_modern_watchfaceView" startPc="268437672">
+            <param id="dc"/>
+            <param id="x"/>
+            <param id="y"/>
+            <param id="color"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437844" name="initialize" parent="Background" startPc="268437807">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437886" name="draw" parent="Background" startPc="268437845">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Drawables">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Strings">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437889" name="onStart" parent="simple_clean_modern_watchfaceApp" startPc="268437887">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437903" name="onSettingsChanged" parent="simple_clean_modern_watchfaceApp" startPc="268437890">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437931" name="getInitialView" parent="simple_clean_modern_watchfaceApp" startPc="268437904">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437946" name="initialize" parent="simple_clean_modern_watchfaceApp" startPc="268437932">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437949" name="onStop" parent="simple_clean_modern_watchfaceApp" startPc="268437947">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
